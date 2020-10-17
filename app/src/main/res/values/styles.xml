@@ -1,0 +1,36 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#3B83DC</item>
+        <item name="colorAccent">#ffffff</item>
+
+    </style>
+    <style name="contacts" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#3B83DC</item>
+        <item name="colorPrimaryDark">#3B83DC</item>
+        <item name="colorAccent">#000000</item>
+    </style>
+    <style name="progress" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#3B83DC</item>
+        <item name="colorPrimaryDark">#3B83DC</item>
+        <item name="colorAccent">#3B83DC</item>
+    </style>
+    <style name="header" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#3B83DC</item>
+        <item name="colorPrimaryDark">#3B83DC</item>
+        <item name="colorAccent">#FFFFFF</item>
+    </style>
+<style name="theme" parent="Theme.AppCompat.Light">
+    <item name="android:background">#3b83dc</item>
+</style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
